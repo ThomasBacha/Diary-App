@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Card, Text, Button } from '@fluentui/react-northstar';
 import ReactModal from 'react-modal';
 
+//
 interface DailyCardProps {
   date: Date;
 }
